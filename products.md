@@ -1,34 +1,34 @@
-Productos
-Mantenimiento de redes
-creacion de contenido
-banner
-flyer
-stories format
-RRSS format
-Reels
-Video personalizado
-stories
-tweets chain
-publicacion de contenido
-engagement con la comunidad
-atencion de inbox
-Creacion de página web
-ecommerce
-bot / wsp
-creacion de contenido
-roadmap
-sitemap
-acceso usuario y contrasena
-optimizacion de multimedia para web
-posicionamiento SEO
-Actualizacion de sitio web existente
-lista de mejoras
-Bloggin
-creacion de posts
-publicacion de spots
-engagement con la comunidad
-Promociones
-concursos
-Newsletter
-Afiliacion
-UGC (User Generated Content)
+Productos:
+Gestión de Redes Sociales
+Estrategia de Contenidos
+Diseño de Banners y Flyers
+Formatos para Historias (Stories)
+Formatos para Redes Sociales (RRSS)
+Creación de Reels
+Video Personalizado
+Cadena de Tweets
+Publicación de Contenidos
+Interacción con la Comunidad
+Gestión de Inbox
+Desarrollo y Diseño de Páginas Web
+Desarrollo de Tiendas Online (eCommerce)
+Implementación de Chatbots y Soporte en WhatsApp
+Creación y Gestión de Contenidos Web
+Planificación de Roadmap
+Creación de Sitemap
+Acceso de Usuarios con Contraseña
+Optimización de Multimedia para Web
+Posicionamiento SEO
+Actualización y Mejora de Sitios Web Existentes
+Listado de Mejoras
+Optimización de Rendimiento
+Actualización de Contenidos
+Blogging y Marketing de Contenidos
+Redacción y Creación de Post
+Publicación de Artículos
+Interacción con la Comunidad
+Promociones y Estrategias de Marketing
+Organización de Concursos
+Envío de Newsletters
+Programas de Afiliación
+Contenidos Generados por Usuarios (UGC)
